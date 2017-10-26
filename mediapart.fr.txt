@@ -1,5 +1,6 @@
 title://h1[@class="title"]
 body://section[@class="global-wrapper"]//div[@class="page-pane"]
+date: //time/@datetime
 
 single_page_link: //link[@rel="canonical"]
 
